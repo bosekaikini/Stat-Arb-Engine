@@ -1,0 +1,1 @@
+timestamp,strategy,cluster_id,base_ticker,hedge_ticker,signal_id,action,side,quantity,price,notional,alpha,beta,spread,spread_zscore,order_id,status
